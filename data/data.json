@@ -1,0 +1,5 @@
+
+[
+    {"id": 1, "nazwa": "Chleb", "kwota": 5, "kategoria": "Jedzenie", "data_wydatku": "2026-01-27"},
+    {"id": 2, "nazwa": "Bilet autobusowy", "kwota": 12, "kategoria": "Transport", "data_wydatku": "2026-01-26"}
+]
