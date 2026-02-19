@@ -39,7 +39,7 @@ $chartData = $ds->getChartData();
     <table>
         <thead>
             <tr>
-                <th>Nazwa</th>
+                <th>lol</th>
                 <th>Kwota</th>
                 <th>Kategoria</th>
                 <th>Data wydatku</th>
