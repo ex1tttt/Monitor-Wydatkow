@@ -40,7 +40,7 @@ $chartData = $ds->getChartData();
         <thead>
             <tr>
                 <th>Nazwa</th>
-                <th>Kwota</th>
+                <th>Kokojambo</th>
                 <th>Kategoria</th>
                 <th>Data wydatku</th>
             </tr>
@@ -87,3 +87,4 @@ $chartData = $ds->getChartData();
     </script>
 </body>
 </html>
+
