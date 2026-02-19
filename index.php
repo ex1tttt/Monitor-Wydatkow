@@ -24,7 +24,7 @@ $chartData = $ds->getChartData();
 <html lang="pl">
 <head>
     <meta charset="UTF-8">
-    <title>Zarządzanie Wydatkami</title>
+    <title>Lolik Wydatkami</title>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <style>
         body { font-family: Arial, sans-serif; margin: 20px; }
